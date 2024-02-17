@@ -67,3 +67,29 @@ public class Superhero
         System.out.println(thor.weapon);
     }
 }
+
+/*
+Output:
+
+null
+0
+false
+null
+
+Steve Rogers
+false
+
+Bruce Banner
+false
+null
+
+Peter Parker
+82
+true
+null
+
+Thor Odinson
+95
+false
+hammer
+*/
